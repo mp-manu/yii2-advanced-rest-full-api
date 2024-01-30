@@ -78,29 +78,6 @@ return [
             ],
 
         ],
-
-
-        /*
-        'urlManager' => [
-            'enablePrettyUrl' => true,
-            'enableStrictParsing' => true,
-            'showScriptName' => false,
-            'rules' => [
-                ['class' => 'yii\rest\UrlRule', 'controller' => 'books'],
-            ],
-        ],
-        */
-
-
-        /*
-        'urlManager' => [
-            'enablePrettyUrl' => true,
-            'showScriptName' => false,
-            'rules' => [
-            ],
-        ],
-        */
-
     ],
     'params' => $params,
 ];
